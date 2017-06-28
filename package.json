@@ -8,7 +8,7 @@
     "Konstantin Käfer <kkaefer@gmail.com>"
   ],
   "dependencies": {
-    "agentkeepalive": "2.0.2",
+    "agentkeepalive": "2.2.0",
     "requestretry": "1.4.0",
     "@mapbox/tiletype": "~0.3.1"
   },
